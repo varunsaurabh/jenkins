@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
-        System.out.println("Adding new code line")
+        System.out.println("Adding new code line");
     }
 }
